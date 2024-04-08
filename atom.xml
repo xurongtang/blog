@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rongtang&#39;s personal website</title>
+  
+  
+  <link href="https://xurongtang.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://xurongtang.github.io/"/>
+  <updated>2024-04-07T14:47:14.414Z</updated>
+  <id>https://xurongtang.github.io/</id>
+  
+  <author>
+    <name>Xu Rongtang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>optima</title>
+    <link href="https://xurongtang.github.io/2024/04/07/optima/"/>
+    <id>https://xurongtang.github.io/2024/04/07/optima/</id>
+    <published>2024-04-07T14:47:14.000Z</published>
+    <updated>2024-04-07T14:47:14.414Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test1</title>
+    <link href="https://xurongtang.github.io/2024/04/07/test1/"/>
+    <id>https://xurongtang.github.io/2024/04/07/test1/</id>
+    <published>2024-04-07T13:59:25.000Z</published>
+    <updated>2024-04-07T13:59:25.094Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xurongtang.github.io/2024/04/07/hello-world/"/>
+    <id>https://xurongtang.github.io/2024/04/07/hello-world/</id>
+    <published>2024-04-07T13:41:33.834Z</published>
+    <updated>2024-04-07T13:35:17.637Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
