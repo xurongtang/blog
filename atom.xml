@@ -6,7 +6,7 @@
   <link href="https://xurongtang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xurongtang.github.io/"/>
-  <updated>2024-04-08T13:30:38.743Z</updated>
+  <updated>2024-04-08T13:50:55.049Z</updated>
   <id>https://xurongtang.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Scientific style line chart drawing</title>
+    <link href="https://xurongtang.github.io/2024/04/08/Line-chart-polt/"/>
+    <id>https://xurongtang.github.io/2024/04/08/Line-chart-polt/</id>
+    <published>2024-04-08T13:41:42.000Z</published>
+    <updated>2024-04-08T13:50:55.049Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;科研风格折线图绘制&quot;&gt;&lt;a href=&quot;#科研风格折线图绘制&quot; class=&quot;headerlink&quot; title=&quot;科研风格折线图绘制&quot;&gt;&lt;/a&gt;科研风格折线图绘制&lt;/h1&gt;&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="Python_Plot" scheme="https://xurongtang.github.io/categories/Python-Plot/"/>
+    
+    
+    <category term="line-chart" scheme="https://xurongtang.github.io/tags/line-chart/"/>
+    
+  </entry>
   
   <entry>
     <title>Gallery-1</title>
