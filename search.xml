@@ -60,4 +60,168 @@
         <tag>bar-chart</tag>
       </tags>
   </entry>
+  <entry>
+    <title>The Introduction to Basic Concepts of Reinforcement Learning</title>
+    <url>/2024/04/16/RL%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><h1 id="Reinforcement-Learning"><a href="#Reinforcement-Learning" class="headerlink" title="Reinforcement Learning"></a>Reinforcement Learning</h1><h1 id="A-Classic-Example"><a href="#A-Classic-Example" class="headerlink" title="A Classic Example"></a>A Classic Example</h1><h1 id="State"><a href="#State" class="headerlink" title="State"></a>State</h1><h1 id="Action"><a href="#Action" class="headerlink" title="Action"></a>Action</h1><h1 id="State-Transition"><a href="#State-Transition" class="headerlink" title="State Transition"></a>State Transition</h1><h1 id="Policy"><a href="#Policy" class="headerlink" title="Policy"></a>Policy</h1><h1 id="Reward"><a href="#Reward" class="headerlink" title="Reward"></a>Reward</h1><h1 id="Trajectories"><a href="#Trajectories" class="headerlink" title="Trajectories"></a>Trajectories</h1><h1 id="Returns"><a href="#Returns" class="headerlink" title="Returns"></a>Returns</h1><h1 id="Markov-Decision-Process-MDP"><a href="#Markov-Decision-Process-MDP" class="headerlink" title="Markov Decision Process(MDP)"></a>Markov Decision Process(MDP)</h1>]]></content>
+      <categories>
+        <category>Deep Learning</category>
+      </categories>
+      <tags>
+        <tag>RL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Foreign publications reading--issue 1</title>
+    <url>/2024/04/30/Foreign-publications-reading-issue-1/</url>
+    <content><![CDATA[<h1 id="new-words-and-phrase"><a href="#new-words-and-phrase" class="headerlink" title="new words and phrase"></a>new words and phrase</h1><table>
+<thead>
+<tr>
+<th align="center">Word</th>
+<th align="center">Description</th>
+<th align="center">Word</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">chronicler</td>
+<td align="center">a person who writes accounts of important or historical events.</td>
+<td align="center">horror</td>
+<td align="center">恐怖</td>
+</tr>
+<tr>
+<td align="center">has made something of a name</td>
+<td align="center">已名声大噪</td>
+<td align="center">persuasive</td>
+<td align="center">有说服力的</td>
+</tr>
+<tr>
+<td align="center">apes</td>
+<td align="center">类人猿</td>
+<td align="center">iconography</td>
+<td align="center">图像学</td>
+</tr>
+<tr>
+<td align="center">apes the iconography of</td>
+<td align="center">模仿…的形象</td>
+<td align="center">dismal</td>
+<td align="center">惨淡，悲凉</td>
+</tr>
+<tr>
+<td align="center">tension</td>
+<td align="center">紧张，张力</td>
+<td align="center">conflict zone</td>
+<td align="center">冲突区</td>
+</tr>
+<tr>
+<td align="center">blockbuster</td>
+<td align="center">重磅炸弹，大片</td>
+<td align="center">theatre</td>
+<td align="center">剧院</td>
+</tr>
+<tr>
+<td align="center">teaser</td>
+<td align="center">预告片</td>
+<td align="center">liberal</td>
+<td align="center">自由主义的</td>
+</tr>
+<tr>
+<td align="center">conspiracy</td>
+<td align="center">阴谋</td>
+<td align="center">right-wing</td>
+<td align="center">右翼</td>
+</tr>
+<tr>
+<td align="center">deep state</td>
+<td align="center">深层政府</td>
+<td align="center">conspiracy theorists</td>
+<td align="center">阴谋论者</td>
+</tr>
+<tr>
+<td align="center">quartet</td>
+<td align="center">四重奏</td>
+<td align="center">quarter</td>
+<td align="center">四等分，刻</td>
+</tr>
+<tr>
+<td align="center">war correspondents</td>
+<td align="center">战地记者</td>
+<td align="center">rumored</td>
+<td align="center">传闻</td>
+</tr>
+<tr>
+<td align="center">secessionists</td>
+<td align="center">分裂主义者</td>
+<td align="center">trailer</td>
+<td align="center">拖车，预告</td>
+</tr>
+<tr>
+<td align="center">provocative</td>
+<td align="center">挑衅，气人的</td>
+<td align="center">ensue&#x2F;ensuing</td>
+<td align="center">随后</td>
+</tr>
+<tr>
+<td align="center">fluency</td>
+<td align="center">流畅度</td>
+<td align="center">suspense</td>
+<td align="center">悬念</td>
+</tr>
+<tr>
+<td align="center">genuine</td>
+<td align="center">真正的</td>
+<td align="center">genius</td>
+<td align="center">天才</td>
+</tr>
+<tr>
+<td align="center">protagonist</td>
+<td align="center">主角</td>
+<td align="center">philosophy&#x2F;philosophies</td>
+<td align="center">哲学</td>
+</tr>
+<tr>
+<td align="center">archetype</td>
+<td align="center">原型</td>
+<td align="center">old-school</td>
+<td align="center">老派</td>
+</tr>
+<tr>
+<td align="center">harden&#x2F;hardened</td>
+<td align="center">硬化&#x2F;熟练的</td>
+<td align="center">rookie</td>
+<td align="center">新人</td>
+</tr>
+<tr>
+<td align="center">be-all-end-all</td>
+<td align="center">最重要的</td>
+<td align="center">bear</td>
+<td align="center">举止，仪态，忍受</td>
+</tr>
+<tr>
+<td align="center">dwell</td>
+<td align="center">居住</td>
+<td align="center">dwell on</td>
+<td align="center">详述</td>
+</tr>
+<tr>
+<td align="center">auteur</td>
+<td align="center">作者</td>
+<td align="center">thumb</td>
+<td align="center">拇指</td>
+</tr>
+<tr>
+<td align="center">reckon</td>
+<td align="center">估计，清算</td>
+<td align="center">swagger</td>
+<td align="center">昂首阔步</td>
+</tr>
+</tbody></table>
+<h1 id="complex-sentences"><a href="#complex-sentences" class="headerlink" title="complex sentences"></a>complex sentences</h1><h2 id="sentence-1"><a href="#sentence-1" class="headerlink" title="sentence 1"></a>sentence 1</h2><p>Whether these scenarios are always persuasive is a separate question.<br>这些场景是否总是有说服力是一个单独的问题。</p>
+<h2 id="sentence-2"><a href="#sentence-2" class="headerlink" title="sentence 2"></a>sentence 2</h2><p>apes the iconography of the Capitol riot to construct another dismal future—one in which tensions between the states have reduced the U.S. to a conflict zone.<br>模仿国会大厦骚乱的形象来构建另一个悲惨的未来——在这个未来中，各州之间的紧张关系使美国沦为冲突区。</p>
+<h2 id="sentence-3"><a href="#sentence-3" class="headerlink" title="sentence 3"></a>sentence 3</h2><p>The blockbuster proved divisive long before it opened in theatres this week.<br>这部大片在本周上映之前很久就引起了分歧。</p>
+<h2 id="sentence-4"><a href="#sentence-4" class="headerlink" title="sentence 4"></a>sentence 4</h2><p>The film itself—which follows a quartet of war correspondents who set out to reach D.C. in time for a rumored assault by secessionists—is as much of a Rorschach test as the trailer was.<br>影片本身讲述了四位战地记者及时赶赴华盛顿遭遇分离主义分子袭击的传闻，这部电影本身就像预告片一样是罗夏墨迹测试。</p>
+<h2 id="sentence-5"><a href="#sentence-5" class="headerlink" title="sentence 5"></a>sentence 5</h2><p>For Lee, a hardened war photographer, simply bearing witness is the be-all-end-all.<br>对于一位经验丰富的战地摄影师李来说，仅仅见证就是最重要的。</p>
+<h2 id="sentence-6"><a href="#sentence-6" class="headerlink" title="sentence 6"></a>sentence 6</h2><p>Garland, too, is more than ready to supply the images. But he’d rather not dwell on their implications.<br>加兰也已经准备好提供图像。 但他不想详述它们的含义。</p>
+]]></content>
+  </entry>
 </search>
